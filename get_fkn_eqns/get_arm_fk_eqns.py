@@ -3,7 +3,7 @@ from urdf2casadi import urdfparser as u2c
 
 urdf_path = "urdf/digit_model_mod.urdf"
 root_link = "torso"
-end_link = "left_wrist"
+end_link = "left_toe_roll"
 robot_parser = u2c.URDFparser()
 robot_parser.from_file(urdf_path)
 fk_dict = robot_parser.get_forward_kinematics(root_link, end_link)
