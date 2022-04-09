@@ -24,7 +24,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/visual/link0.dae"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/visual/link0.dae"/>
       </geometry>
       <material name="">
         <color rgba="1 1 1 1"/>
@@ -33,7 +33,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/collision/link0.stl"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/collision/link0.stl"/>
       </geometry>
     </collision>
   </link>
@@ -55,7 +55,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/visual/link1.dae"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/visual/link1.dae"/>
       </geometry>
       <material name="">
         <color rgba="1 1 1 1"/>
@@ -64,7 +64,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="environments/panda/deps/mesh/collision/link1.stl"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/collision/link1.stl"/>
       </geometry>
     </collision>
   </link>
@@ -86,7 +86,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="environments/panda/deps/mesh/visual/link2.dae"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/visual/link2.dae"/>
       </geometry>
       <material name="">
         <color rgba="1 1 1 1"/>
@@ -95,7 +95,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/collision/link2.stl"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/collision/link2.stl"/>
       </geometry>
     </collision>
   </link>
@@ -117,7 +117,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/visual/link3.dae"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/visual/link3.dae"/>
       </geometry>
       <material name="">
         <color rgba="1 1 1 1"/>
@@ -126,7 +126,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/collision/link3.stl"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/collision/link3.stl"/>
       </geometry>
     </collision>
   </link>
@@ -148,7 +148,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/visual/link4.dae"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/visual/link4.dae"/>
       </geometry>
       <material name="">
         <color rgba="1 1 1 1"/>
@@ -157,7 +157,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/collision/link4.stl"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/collision/link4.stl"/>
       </geometry>
     </collision>
   </link>
@@ -179,7 +179,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/visual/link5.dae"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/visual/link5.dae"/>
       </geometry>
       <material name="">
         <color rgba="1 1 1 1"/>
@@ -188,7 +188,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/collision/link5.stl"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/collision/link5.stl"/>
       </geometry>
     </collision>
   </link>
@@ -210,7 +210,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/visual/link6.dae"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/visual/link6.dae"/>
       </geometry>
       <material name="">
         <color rgba="1 1 1 1"/>
@@ -219,7 +219,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/collision/link6.stl"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/collision/link6.stl"/>
       </geometry>
     </collision>
   </link>
@@ -241,7 +241,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/visual/link7.dae"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/visual/link7.dae"/>
       </geometry>
       <material name="">
         <color rgba="1 1 1 1"/>
@@ -250,7 +250,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/collision/link7.stl"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/collision/link7.stl"/>
       </geometry>
     </collision>
   </link>
@@ -268,7 +268,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/visual/hand.dae"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/visual/hand.dae"/>
       </geometry>
       <material name="">
         <color rgba="1 1 1 1"/>
@@ -277,7 +277,7 @@
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/collision/hand.stl"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/collision/hand.stl"/>
       </geometry>
     </collision>
   </link>
@@ -295,13 +295,13 @@
     </inertial>
     <visual>
       <geometry>
-        <mesh filename="mesh/visual/finger.dae"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/visual/finger.dae"/>
       </geometry>
       <material name="panda_white"/>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="mesh/collision/finger.stl"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/collision/finger.stl"/>
       </geometry>
       <material name="panda_white"/>
     </collision>
@@ -322,20 +322,154 @@
     <visual>
       <origin rpy="0 0 3.14159265359" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/visual/finger.dae"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/visual/finger.dae"/>
       </geometry>
       <material name="panda_white"/>
     </visual>
     <collision>
       <origin rpy="0 0 3.14159265359" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="mesh/collision/finger.stl"/>
+        <mesh filename="../../../../research/projects/RMP2/src/models/panda/mesh/collision/finger.stl"/>
       </geometry>
       <material name="panda_white"/>
     </collision>
   </link>
 
+<link name="point1">
+    <visual>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <geometry>
+          <box size="0.1 0.1 0.1"/>
+        </geometry>
+        <material name="">
+          <color rgba="0 0 0 1"/>
+        </material>
+      </visual>
+  </link>
+  <joint name="point1joint" type="fixed">
+    <origin rpy="0 0 0" xyz="0 0 -0.1"/>
+    <parent link="link1"/>
+    <child link="point1"/>
+  </joint>
 
+  <link name="point2">
+    <visual>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <geometry>
+          <box size="0.1 0.1 0.1"/>
+        </geometry>
+        <material name="">
+          <color rgba="0 0 0 1"/>
+        </material>
+      </visual>
+  </link>
+  <joint name="point2joint" type="fixed">
+    <origin rpy="0 0 0" xyz="0 -0.12 -0.0"/>
+    <parent link="link2"/>
+    <child link="point2"/>
+  </joint>
+
+  <link name="point3">
+    <visual>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <geometry>
+          <box size="0.1 0.1 0.1"/>
+        </geometry>
+        <material name="">
+          <color rgba="0 0 0 1"/>
+        </material>
+      </visual>
+  </link>
+  <joint name="point3joint" type="fixed">
+    <origin rpy="0 0 0" xyz="-0.0 -0.0 -0.05"/>
+    <parent link="link3"/>
+    <child link="point3"/>
+  </joint>
+
+  <link name="point4">
+    <visual>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <geometry>
+          <box size="0.1 0.1 0.1"/>
+        </geometry>
+        <material name="">
+          <color rgba="0 0 0 1"/>
+        </material>
+      </visual>
+  </link>
+  <joint name="point4joint" type="fixed">
+    <origin rpy="0 0 0" xyz="-0.0 0 -0.03"/>
+    <parent link="link4"/>
+    <child link="point4"/>
+  </joint>
+
+  <link name="point5">
+    <visual>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <geometry>
+          <box size="0.1 0.1 0.1"/>
+        </geometry>
+        <material name="">
+          <color rgba="0 0 0 1"/>
+        </material>
+      </visual>
+  </link>
+  <joint name="point5joint" type="fixed">
+    <origin rpy="0 0 0" xyz="0.0 0.0 -0.12"/>
+    <parent link="link5"/>
+    <child link="point5"/>
+  </joint>
+
+  <!-- <link name="point6">
+    <visual>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <geometry>
+          <box size="0.1 0.1 0.1"/>
+        </geometry>
+        <material name="">
+          <color rgba="0 0 0 1"/>
+        </material>
+      </visual>
+  </link>
+  <joint name="point6joint" type="fixed">
+    <origin rpy="0 0 0" xyz="0 0.05 0.0"/>
+    <parent link="link6"/>
+    <child link="point6"/>
+  </joint> -->
+
+  <link name="point7">
+    <visual>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <geometry>
+          <box size="0.1 0.1 0.1"/>
+        </geometry>
+        <material name="">
+          <color rgba="0 0 0 1"/>
+        </material>
+      </visual>
+  </link>
+  <joint name="point7joint" type="fixed">
+    <origin rpy="0 0 0" xyz="0 0.0 0.0"/>
+    <parent link="link7"/>
+    <child link="point7"/>
+  </joint>
+
+  <link name="point8">
+    <visual>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <geometry>
+          <box size="0.1 0.1 0.1"/>
+        </geometry>
+        <material name="">
+          <color rgba="0 0 0 1"/>
+        </material>
+      </visual>
+  </link>
+  <joint name="point8joint" type="fixed">
+    <origin rpy="0 0 0" xyz="0 0.0 0.05"/>
+    <parent link="link8"/>
+    <child link="point8"/>
+  </joint>
 
 
 
