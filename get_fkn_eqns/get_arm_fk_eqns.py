@@ -3,7 +3,7 @@ from urdf2casadi import urdfparser as u2c
 
 urdf_path = "../panda.urdf"
 root_link = "link0"
-end_link = "point8"
+end_link = "point7"
 robot_parser = u2c.URDFparser()
 robot_parser.from_file(urdf_path)
 fk_dict = robot_parser.get_forward_kinematics(root_link, end_link)
