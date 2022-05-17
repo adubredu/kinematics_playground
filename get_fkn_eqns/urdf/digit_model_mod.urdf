@@ -285,7 +285,7 @@
       </geometry>
     </collision>
   </link>
-  <link name="left_wrist">
+  <link name="lcp0">
     <inertial>
       <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
       <mass value="0.005"/>
@@ -304,6 +304,299 @@
       </geometry>
     </collision>
   </link>
+   <link name="lcp1">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+   <link name="lcp2">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+  
+   <link name="lcp3">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+  
+   <link name="lcp4">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+  
+   <link name="lcp5">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+  
+   <link name="lcp6">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+  
+   <link name="lcp7">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+
+  
+   <link name="rcp1">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+   <link name="rcp2">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+   <link name="rcp3">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+   <link name="rcp4">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+   <link name="rcp5">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+   <link name="rcp6">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+   <link name="rcp7">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link>
+  
+   <link name="hcp">
+    <inertial>
+      <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
+      <mass value="0.005"/>
+      <inertia ixx="0.000476" ixy="2.9e-05" ixz="0.001403" iyy="0.009564" iyz="1.5e-05" izz="-9e-06"/>
+    </inertial>
+    <visual>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.15 0.15 0.15"/>
+      </geometry>
+    </visual>
+    <collision>
+      <origin rpy="0 0 0" xyz="0 0 0"/>
+      <geometry>
+        <box size="0.05 0.05 0.05"/>
+      </geometry>
+    </collision>
+  </link> 
   <link name="right_hip_roll">
     <inertial>
       <origin rpy="0 0 0" xyz="-0.001967 -0.000244 0.031435"/>
@@ -570,7 +863,7 @@
       </geometry>
     </collision>
   </link>
-    <link name="right_wrist">
+    <link name="rcp0">
     <inertial>
       <origin rpy="0 0 0" xyz="0.0 0.0 0.0"/>
       <mass value="0.005"/>
@@ -589,63 +882,63 @@
       </geometry>
     </collision>
   </link>
-  <joint name="hip_abduction_left" type="continuous">
+  <joint name="LeftHipRoll" type="continuous">
     <origin rpy="1.57079632679 -1.1955506 -1.57079632679" xyz="-0.001 0.091 0"/>
     <axis xyz="0 0 1"/>
     <parent link="torso"/>
     <child link="left_hip_roll"/>
     <limit effort="1.4" lower="-1.0472" upper="1.0472" velocity="12.15"/>
   </joint>
-  <joint name="hip_rotation_left" type="continuous">
+  <joint name="LeftHipYaw" type="continuous">
     <origin rpy="0 -1.57079632679 0" xyz="-0.0505 0 0.044"/>
     <axis xyz="0 0 1"/>
     <parent link="left_hip_roll"/>
     <child link="left_hip_yaw"/>
     <limit effort="1.4" lower="-0.698132" upper="0.698132" velocity="12.15"/>
   </joint>
-  <joint name="hip_flexion_left" type="continuous">
+  <joint name="LeftHipPitch" type="continuous">
     <origin rpy="-1.57079632679 -0.785398163397 3.14159265359" xyz="0 0.004 0.068"/>
     <axis xyz="0 0 -1"/>
     <parent link="left_hip_yaw"/>
     <child link="left_hip_pitch"/>
     <limit effort="12.5" lower="-1.0472" upper="1.57079632679" velocity="8.5"/>
   </joint>
-  <joint name="knee_joint_left" type="continuous">
+  <joint name="LeftKnee" type="continuous">
     <origin rpy="0 0 -1.57079632679" xyz="0.12 0 0.0045"/>
     <axis xyz="0 0 1"/>
     <parent link="left_hip_pitch"/>
     <child link="left_knee"/>
     <limit effort="12.5" lower="-1.2392" upper="0.8727" velocity="8.5085"/>
   </joint>
-  <joint name="knee_to_shin_left" type="fixed">
+  <joint name="LeftShin" type="continuous">
     <origin rpy="0 0 0" xyz="0.060677 0.047406 0"/>
     <axis xyz="0 0 1"/>
     <parent link="left_knee"/>
     <child link="left_shin"/>
     <limit effort="0" lower="-0.35" upper="0.35" velocity="10"/>
   </joint>
-  <joint name="shin_to_tarsus_left" type="continuous">
+  <joint name="LeftTarsus" type="continuous">
     <origin rpy="0 0 1.7976891" xyz="0.434759 0.02 0"/>
     <axis xyz="0 0 1"/>
     <parent link="left_shin"/>
     <child link="left_tarsus"/>
     <limit effort="0" lower="-0.8779" upper="1.2497" velocity="20"/>
   </joint>
-  <joint name="toe_pitch_joint_left" type="continuous">
+  <joint name="LeftToePitch" type="continuous">
     <origin rpy="0 0 1.1956" xyz="0.408 -0.04 0"/>
     <axis xyz="0 0 1"/>
     <parent link="left_tarsus"/>
     <child link="left_toe_pitch"/>
     <limit effort="0.9" lower="-0.785398163397" upper="0.785398163397" velocity="11.5"/>
   </joint>
-  <joint name="toe_roll_joint_left" type="continuous">
+  <joint name="LeftToeRoll" type="continuous">
     <origin rpy="0 1.57079632679 0" xyz="0 0 0"/>
     <axis xyz="0 0 1"/>
     <parent link="left_toe_pitch"/>
     <child link="left_toe_roll"/>
     <limit effort="0.9" lower="-0.6109" upper="0.6109" velocity="11.5"/>
   </joint>
-  <joint name="shoulder_roll_joint_left" type="continuous">
+  <joint name="LeftShoulderRoll" type="continuous">
     <origin rpy="-1.57079632679 -1.3962633 1.57079632679" xyz="-0.001 0.12 0.4"/>
     <axis xyz="0 0 1"/>
     <parent link="torso"/>
@@ -659,84 +952,84 @@
     <child link="left_shoulder_cap"/>
     <limit effort="1.4" lower="-1.309" upper="1.309" velocity="12.5"/>
   </joint>
-  <joint name="shoulder_pitch_joint_left" type="continuous">
+  <joint name="LeftShoulderPitch" type="continuous">
     <origin rpy="1.57079632679 0.785398163397 -0.2792527" xyz="-0.00317 -0.011055 0.0555"/>
     <axis xyz="0 0 -1"/>
     <parent link="left_shoulder_roll"/>
     <child link="left_shoulder_pitch"/>
     <limit effort="1.4" lower="-2.5307" upper="2.5307" velocity="12.5"/>
   </joint>
-  <joint name="shoulder_yaw_joint_left" type="continuous">
+  <joint name="LeftShoulderYaw" type="continuous">
     <origin rpy="1.57079632679 0 0" xyz="0 -0.165 -0.1"/>
     <axis xyz="0 0 1"/>
     <parent link="left_shoulder_pitch"/>
     <child link="left_shoulder_yaw"/>
     <limit effort="1.4" lower="-1.7453" upper="1.7453" velocity="10"/>
   </joint>
-  <joint name="elbow_joint_left" type="continuous">
+  <joint name="LeftElbow" type="continuous">
     <origin rpy="1.57079632679 -0.3926991 0" xyz="0 -0.0385 0.185"/>
     <axis xyz="0 0 1"/>
     <parent link="left_shoulder_yaw"/>
     <child link="left_elbow"/>
     <limit effort="1.4" lower="-1.3526" upper="1.3526" velocity="12.5"/>
   </joint>
-  <joint name="hip_abduction_right" type="continuous">
+  <joint name="RightHipRoll" type="continuous">
     <origin rpy="-1.57079632679 -1.1955506 1.57079632679" xyz="-0.001 -0.091 0"/>
     <axis xyz="0 0 1"/>
     <parent link="torso"/>
     <child link="right_hip_roll"/>
     <limit effort="1.4" lower="-1.0472" upper="1.0472" velocity="12.15"/>
   </joint>
-  <joint name="hip_rotation_right" type="continuous">
+  <joint name="RightHipYaw" type="continuous">
     <origin rpy="0 -1.57079632679 0" xyz="-0.0505 0 0.044"/>
     <axis xyz="0 0 1"/>
     <parent link="right_hip_roll"/>
     <child link="right_hip_yaw"/>
     <limit effort="1.4" lower="-0.698132" upper="0.698132" velocity="12.15"/>
   </joint>
-  <joint name="hip_flexion_right" type="continuous">
+  <joint name="RightHipPitch" type="continuous">
     <origin rpy="1.57079632679 -0.785398163397 -3.14159265359" xyz="0 -0.004 0.068"/>
     <axis xyz="0 0 -1"/>
     <parent link="right_hip_yaw"/>
     <child link="right_hip_pitch"/>
     <limit effort="12.5" lower="-1.57079632679" upper="1.0472" velocity="8.5"/>
   </joint>
-  <joint name="knee_joint_right" type="continuous">
+  <joint name="RightKnee" type="continuous">
     <origin rpy="0 0 1.57079632679" xyz="0.12 0 0.0045"/>
     <axis xyz="0 0 1"/>
     <parent link="right_hip_pitch"/>
     <child link="right_knee"/>
     <limit effort="12.5" lower="-0.8727" upper="1.2392" velocity="8.5085"/>
   </joint>
-  <joint name="knee_to_shin_right" type="fixed">
+  <joint name="RightShin" type="continuous">
     <origin rpy="0 0 0" xyz="0.060677 -0.047406 0"/>
     <axis xyz="0 0 1"/>
     <parent link="right_knee"/>
     <child link="right_shin"/>
     <limit effort="0" lower="-0.35" upper="0.35" velocity="10"/>
   </joint>
-  <joint name="shin_to_tarsus_right" type="continuous">
+  <joint name="RightTarsus" type="continuous">
     <origin rpy="0 0 -1.7976891" xyz="0.434759 -0.02 0"/>
     <axis xyz="0 0 1"/>
     <parent link="right_shin"/>
     <child link="right_tarsus"/>
     <limit effort="0" lower="-1.2497" upper="0.8779" velocity="20"/>
   </joint>
-  <joint name="toe_pitch_joint_right" type="continuous">
+  <joint name="RightToePitch" type="continuous">
     <origin rpy="0 0 -1.1956" xyz="0.408 0.04 0"/>
     <axis xyz="0 0 1"/>
     <parent link="right_tarsus"/>
     <child link="right_toe_pitch"/>
     <limit effort="0.9" lower="-0.785398163397" upper="0.785398163397" velocity="11.5"/>
   </joint>
-  <joint name="toe_roll_joint_right" type="continuous">
+  <joint name="RightToeRoll" type="continuous">
     <origin rpy="0 1.57079632679 0" xyz="0 0 0"/>
     <axis xyz="0 0 1"/>
     <parent link="right_toe_pitch"/>
     <child link="right_toe_roll"/>
     <limit effort="0.9" lower="-0.6109" upper="0.6109" velocity="11.5"/>
   </joint>
-  <joint name="shoulder_roll_joint_right" type="continuous">
+  <joint name="RightShoulderRoll" type="continuous">
     <origin rpy="1.57079632679 -1.3962633 -1.57079632679" xyz="-0.001 -0.12 0.4"/>
     <axis xyz="0 0 1"/>
     <parent link="torso"/>
@@ -767,21 +1060,21 @@
     <limit effort="1.4" lower="-1.309" upper="1.309" velocity="12.5"/>
   </joint>
 
-  <joint name="shoulder_pitch_joint_right" type="continuous">
+  <joint name="RightShoulderPitch" type="continuous">
     <origin rpy="-1.57079632679 0.785398163397 0.2792527" xyz="-0.00317 0.011055 0.0555"/>
     <axis xyz="0 0 -1"/>
     <parent link="right_shoulder_roll"/>
     <child link="right_shoulder_pitch"/>
     <limit effort="1.4" lower="-2.5307" upper="2.5307" velocity="12.5"/>
   </joint>
-  <joint name="shoulder_yaw_joint_right" type="continuous">
+  <joint name="RightShoulderYaw" type="continuous">
     <origin rpy="-1.57079632679 0 0" xyz="0 0.165 -0.1"/>
     <axis xyz="0 0 1"/>
     <parent link="right_shoulder_pitch"/>
     <child link="right_shoulder_yaw"/>
     <limit effort="1.4" lower="-1.7453" upper="1.7453" velocity="10"/>
   </joint>
-  <joint name="elbow_joint_right" type="continuous">
+  <joint name="RightElbow" type="continuous">
     <origin rpy="-1.57079632679 -0.3926991 0" xyz="0 0.0385 0.185"/>
     <axis xyz="0 0 1"/>
     <parent link="right_shoulder_yaw"/>
@@ -791,12 +1084,88 @@
   <joint name="wrist_joint_right" type="fixed">
     <origin rpy="0.0 0.0 0.0" xyz="0.375 -0.0 -0.05"/> 
     <parent link="right_elbow"/>
-    <child link="right_wrist"/> 
+    <child link="rcp0"/> 
   </joint>
   <joint name="wrist_joint_left" type="fixed">
     <origin rpy="0.0 0.0 0.0" xyz="0.375 0.0 -0.05"/> 
     <parent link="left_elbow"/>
-    <child link="left_wrist"/> 
+    <child link="lcp0"/> 
+  </joint>
+  <joint name="lcp1joint" type="fixed">
+    <origin rpy="0.0 0.0 0.0" xyz="0.22 0.0 -0.04"/> 
+    <parent link="left_elbow"/>
+    <child link="lcp1"/> 
+  </joint>
+  <joint name="lcp2joint" type="fixed">
+    <origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.2"/> 
+    <parent link="left_shoulder_yaw"/>
+    <child link="lcp2"/> 
+  </joint>
+  <joint name="lcp3joint" type="fixed">
+    <origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/> 
+    <parent link="left_shoulder_yaw"/>
+    <child link="lcp3"/> 
+  </joint>
+  <joint name="lcp4joint" type="fixed">
+    <origin rpy="0.0 0.0 0.0" xyz="0.08 0 -0.05"/> 
+    <parent link="left_hip_pitch"/>
+    <child link="lcp4"/> 
+  </joint>
+  <joint name="lcp5joint" type="fixed">
+    <origin rpy="0.0 0.0 0.0" xyz="0.25 0.05 0.0"/> 
+    <parent link="left_knee"/>
+    <child link="lcp5"/> 
+  </joint>
+  <joint name="lcp6joint" type="fixed">
+    <origin rpy="0.0 0.0 0.0" xyz="0.2 -0.025 0.0"/> 
+    <parent link="left_tarsus"/>
+    <child link="lcp6"/> 
+  </joint>
+  <joint name="lcp7joint" type="fixed">
+    <origin rpy="0.0 0.0 -0.523" xyz="-0.05 -0.01 0.0"/> 
+    <parent link="left_toe_pitch"/>
+    <child link="lcp7"/> 
+  </joint>
+
+  <joint name="rcp1joint" type="fixed">
+    <origin rpy="0.0 0.0 0.0" xyz="0.22 0.0 -0.04"/> 
+    <parent link="right_elbow"/>
+    <child link="rcp1"/> 
+  </joint>
+  <joint name="rcp2joint" type="fixed">
+    <origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.2"/> 
+    <parent link="right_shoulder_yaw"/>
+    <child link="rcp2"/> 
+  </joint>
+  <joint name="rcp3joint" type="fixed">
+    <origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.0"/> 
+    <parent link="right_shoulder_yaw"/>
+    <child link="rcp3"/> 
+  </joint>
+  <joint name="rcp4joint" type="fixed">
+    <origin rpy="0.0 0.0 0.0" xyz="0.08 0 -0.05"/> 
+    <parent link="right_hip_pitch"/>
+    <child link="rcp4"/> 
+  </joint>
+  <joint name="rcp5joint" type="fixed">
+    <origin rpy="0.0 0.0 0.0" xyz="0.25 -0.05 0.0"/> 
+    <parent link="right_knee"/>
+    <child link="rcp5"/> 
+  </joint>
+  <joint name="rcp6joint" type="fixed">
+    <origin rpy="0.0 0.0 0.0" xyz="0.2 0.025 0.0"/> 
+    <parent link="right_tarsus"/>
+    <child link="rcp6"/> 
+  </joint>
+  <joint name="rcp7joint" type="fixed">
+    <origin rpy="0.0  0.0 0.523" xyz="-0.05 -0.01 0.0"/> 
+    <parent link="right_toe_pitch"/>
+    <child link="rcp7"/> 
+  </joint>
+  <joint name="hcpjoint" type="fixed">
+    <origin rpy="0.0 0.0 0.0" xyz="0.0 0.0 0.5"/> 
+    <parent link="torso"/>
+    <child link="hcp"/> 
   </joint>
 
 </robot>
